@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(h1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.year{
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: none;
+    color: white;
+}
+    
+.st{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+background: none;
+   color: white;
+  }
+  
+.st:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan,
+    0 0 50px cyan,
+    0 0 100px cyan;
+   
+}
+
+.nd{
+    position: absolute;
+    top: 50%;
+    left: 43%;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: none;
+    color: white;
+}
+
+.nd:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan,
+    0 0 50px cyan,
+    0 0 100px cyan;
+   
+}
+
+
+.rd{
+    position: absolute;
+    top: 50%;
+    left: 67%;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: none;
+    color: white;
+}
+
+.rd:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan,
+    0 0 50px cyan,
+    0 0 100px cyan;
+   
+}
+
+.go{
+    position: relative;
+    top: 72%;
+    left: 70%;
+    font-size: 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: none;
+}
+
+.go:hover{
+    box-shadow: 0 0 5px gold,
+    0 0 25px gold,
+    0 0 50px gold,
+    0 0 100px gold;
+   
+}
+
+a:link, a:visited {
+    background-color: white;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background: none;
+    
+  }
+  
+  a:hover, a:active {
+   border-radius: 20px;
+    color:white;
+    background: none;
+    
+  }
+

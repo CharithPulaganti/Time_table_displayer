@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.t1A{
+    position: absolute;
+    top: 10%;
+    left:2%;
+    border: 2px solid green;
+    border-radius: 3px;
+    font-size: 20px;
+    border-collapse: collapse;
+
+
+ }
+ th,tr{
+    position: relative;
+    border: 2px solid green;
+    border-radius: 2px;
+    font-family: cursive;
+    box-shadow: 0 0 0.5 0 black;
+ }
+    td{
+        position: relative;
+    border: 2px solid blueviolet;
+    border-radius: 2px;
+    padding: 1rem 2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    font-size: 0.7rem;
+    font-weight: 100;
+    box-shadow: 0 5px 10px black;
+    background-color: whitesmoke;
+    text-align: left;
+    overflow: hidden;
+    font-family: sans-serif;
+    box-shadow: 2 3 4 1 black;
+}
+
+h1{
+    position: absolute;;
+    top: 2%;
+    left: 40%;
+}
+    .t1B{
+        position: absolute;
+        top: 100%;
+        left:2%;
+        border: 2px solid green;
+        border-radius: 3px;
+        font-size: 20px;
+        border-collapse: collapse;
+       
+    }
+    h2{
+        position: absolute;;
+        top: 82%;
+        left: 40%;
+        font-size: 32px;
+    }
+    .click{
+        
+    position: relative;
+    top: 82%;
+    left: 82%;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-shadow: yellow; 
+    }
+    
+
+    .t12A{
+        position: absolute;
+        top: 10%;
+        left:2%;
+        border: 2px solid green;
+        border-radius: 3px;
+        font-size: 20px;
+        border-collapse: collapse;
+        }
+     .t12B{
+            position: absolute;
+            top: 100%;
+            left:2%;
+            border: 2px solid green;
+            border-radius: 3px;
+            font-size: 20px;
+            border-collapse: collapse;
+            }
+            
+    
+    .t13A{
+        position: absolute;
+        top: 10%;
+        left:2%;
+        border: 2px solid green;
+        border-radius: 3px;
+        font-size: 20px;
+        border-collapse: collapse;
+        }
+     .t13B{
+            position: absolute;
+            top: 100%;
+            left:2%;
+            border: 2px solid green;
+            border-radius: 3px;
+            font-size: 20px;
+            border-collapse: collapse;
+            }
+            
+    
+    .t14A{
+        position: absolute;
+        top: 10%;
+        left:2%;
+        border: 2px solid green;
+        border-radius: 3px;
+        font-size: 20px;
+        border-collapse: collapse;
+        }
+     .t14B{
+            position: absolute;
+            top: 100%;
+            left:2%;
+            border: 2px solid green;
+            border-radius: 3px;
+            font-size: 20px;
+            border-collapse: collapse;
+            }
+            
+    
+    .t15A{
+        position: absolute;
+        top: 10%;
+        left:2%;
+        border: 2px solid green;
+        border-radius: 3px;
+        font-size: 20px;
+        border-collapse: collapse;
+        }
+     .t15B{
+            position: absolute;
+            top: 100%;
+            left:2%;
+            border: 2px solid green;
+            border-radius: 3px;
+            font-size: 20px;
+            border-collapse: collapse;
+            }
+            
+    
+    .t16A{
+        position: absolute;
+        top: 10%;
+        left:2%;
+        border: 2px solid green;
+        border-radius: 3px;
+        font-size: 20px;
+        border-collapse: collapse;
+        }
+     .t16B{
+            position: absolute;
+            top: 100%;
+            left: 2%;
+            border: 2px solid green;
+            border-radius: 3px;
+            font-size: 20px;
+            border-collapse: collapse;
+            }
+            
+    
+    .t17A{
+        position: absolute;
+        top: 10%;
+        left: 2%;
+        border: 2px solid green;
+        border-radius: 3px;
+        font-size: 20px;
+        border-collapse: collapse;
+        }
+     .t17B{
+            position: absolute;
+            top: 100%;
+            left: 2%;
+            border: 2px solid green;
+            border-radius: 3px;
+            font-size: 20px;
+            border-collapse: collapse;
+            }
+            
+    
+    .t18A{
+        position: absolute;
+        top: 10%;
+        left: 2%;
+        border: 2px solid green;
+        border-radius: 3px;
+        font-size: 20px;
+        border-collapse: collapse;
+        }
+     .t18B{
+            position: absolute;
+            top: 100%;
+            left: 2%;
+            border: 2px solid green;
+            border-radius: 3px;
+            font-size: 20px;
+            border-collapse: collapse;
+            }
+            
+a:link, a:visited {
+    background-color: white;
+    color: black;
+    
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color:red;
+    border-radius: 20px;
+    color:white;
+  }
+            

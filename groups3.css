@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: dimgrey;
+    background-image: url(xy.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.grp1{
+    position: absolute;
+    top: 200px;
+    left: 150px;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-collapse: collapse;   
+}
+.grp1:hover{
+    box-shadow: 0 0 5px gold,
+    0 0 25px gold,
+    0 0 50px gold,
+    0 0 50px gold;
+   
+}
+.grp2{
+    position: absolute;
+    top: 200px;
+    left: 430px;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+   border-collapse: collapse; 
+}
+.grp2:hover{
+    box-shadow: 0 0 5px gold,
+    0 0 25px gold,
+    0 0 50px gold,
+    0 0 100px gold;
+   
+}
+.grp3{
+    position: absolute;
+    top: 200px;
+    left: 685px;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-collapse: collapse;  
+}
+.grp3:hover{
+    box-shadow: 0 0 5px gold,
+    0 0 25px gold,
+    0 0 50px gold,
+    0 0 100px gold;
+   
+}
+.grp4{
+    position: absolute;
+    top: 200px;
+    left: 950px;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-collapse: collapse; 
+}
+.grp4:hover{
+    box-shadow: 0 0 5px gold,
+    0 0 25px gold,
+    0 0 50px gold,
+    0 0 100px gold;
+   
+}
+.grp5{
+    position: absolute;
+    top: 320px;
+    left: 150px;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-collapse: collapse; 
+}
+.grp5:hover{
+    box-shadow: 0 0 5px gold,
+    0 0 25px gold,
+    0 0 50px gold,
+    0 0 100px gold;
+   
+}
+.grp6{
+    position: absolute;
+    top: 320px;
+    left: 430px;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-collapse: collapse;  
+}
+.grp6:hover{
+    box-shadow: 0 0 5px gold,
+    0 0 25px gold,
+    0 0 50px gold,
+    0 0 100px gold;
+   
+}
+.grp7{
+    position: absolute;
+    top: 320px;
+    left: 685px;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-collapse: collapse;   
+}
+.grp7:hover{
+    box-shadow: 0 0 5px gold,
+    0 0 25px gold,
+    0 0 50px gold,
+    0 0 100px gold;
+   
+}
+.grp8{
+    position: absolute;
+    top: 320px;
+    left: 950px;
+    font-size: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-collapse: collapse; 
+}
+.grp8:hover{
+    box-shadow: 0 0 5px gold,
+    0 0 25px gold,
+    0 0 50px gold,
+    0 0 100px gold;
+   
+}
+.go{
+    position: absolute;
+    top: 450px;
+    left: 1110px;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-collapse: collapse;  
+}
+.go:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan,
+    0 0 50px cyan,
+    0 0 100px cyan;
+   
+}
+
+a:link, a:visited {
+    background-color: white;
+    color: white;
+    
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background: none;
+  }
+  
+  a:hover, a:active {
+    background-color:cadetblue;
+    border-radius: 20px;
+    color:white;
+    background: none;
+  }
